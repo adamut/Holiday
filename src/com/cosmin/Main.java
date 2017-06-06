@@ -116,11 +116,9 @@ public class Main {
                 activitati = activitati.trim();
 
                 if (activity.equals(activitati)) {
-                    for (String date : loc.getDates()) {
-                        flag = 1;
-                        double price = loc.getDayPrice() * 10;
-                        locationAndPrice.put(String.valueOf(loc.getCityName()), price);
-                    }
+                    flag = 1;
+                    double price = loc.getDayPrice() * 10;
+                    locationAndPrice.put(String.valueOf(loc.getCityName()), price);
                 }
             }
         }
