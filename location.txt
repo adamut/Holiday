@@ -1,0 +1,80 @@
+6
+Poiana Brasov
+Romania
+Brasov
+Brasov
+25.5
+ski,sauna,inot
+20/03/2017-23/03/2017 25/03/2017-27/03/2017 28/04/2017-30/05/2017 31/05/2017-10/06/2017 10/01/2018-22/01/2018
+
+Cazino
+Romania
+Constanta
+Constanta
+30.04
+surf,plaja,scuba
+20/03/2017-23/03/2017 24/03/2017-28/03/2017
+
+Vulcanii Noroiosi
+Romania
+Buzau
+Scortoasa
+15
+plimbari,gratar,selfie
+20/03/2017-23/03/2017 10/03/2017-11/03/2017 15/04/2017-20/04/2017 16/04/2017-17/04/2017 22/05/2017-25/05/2017
+
+Castelul Bran
+Romania
+Brasov
+Bran
+40.03
+poze,plimbari,petreceri
+10/05/2017-12/05/2017
+
+Palatul Parlamentului
+Romania
+Bucuresti
+Bucuresti
+20
+poze,plimbari
+11/04/2017-12/04/2017 13/04/2017-14/04/2017 15/04/2017-16/04/2017
+
+Partie Predeal
+Romania
+Brasov
+Predeal
+20.0
+ski,mancare,atv,snowboard
+16/01/2018-30/01/2018
+
+Partie Sinaia
+Romania
+Brasov
+Sinaia
+22.0
+ski,mancare,atv,snowboard
+16/01/2018-30/01/2018 20/04/2017-25/04/2017
+
+Partie Busteni
+Romania
+Brasov
+Busteni
+40.4
+ski,mancare,atv,snowboard
+16/01/2018-30/01/2018 21/05/2017-28/05/2017
+
+Canionul Sapte Scari
+Romania
+Brasov
+Timisul de Sus
+0
+catarari,plimbari
+21/05/2017-23/05/2017
+
+Castelul Peles
+Romania
+Brasov
+Predeal
+12
+poze,  mancare  ,  plimbari
+20/05/2017-22/05/2017
